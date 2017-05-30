@@ -3,7 +3,7 @@ Clone driving behaviour using Deep Learning
 
 
 With this behaviour cloning project, we give steering & throttle instruction to a vehicle in a simulator based on receiving a centre camera image and telemetry data. The steering angle data is a prediction for a neural network model trained against data saved from track runs I performed.
-![simulator screen sot](https://github.com.com/boson-lepton/behavioural-cloning/master/images/Self_Driving_Car_Nanodegree_Program.png)
+![simulator screen sot](https://github.com/boson-lepton/behavioural-cloning/blob/master/images/Self_Driving_Car_Nanodegree_Program.png)
 
 The training of the neural net model, is achieved with driving behaviour data captured, in training mode, within the simulator itself. Additional preprocessing occurs as part of batch generation of data for the neural net training.
 
